@@ -1,6 +1,6 @@
-# 🌐 Portfolio Website
+# 🌐 Modern Playstream Website
 
-A modern, responsive **portfolio website** built using **React.js**, **JavaScript**, and **Tailwind CSS**.  
+A modern, responsive **Modern Playstream (Youtube-Clone)** built using **React.js**, **JavaScript**, and **Tailwind CSS**.  
 The website is deployed on **Vercel** for fast performance and global accessibility.
 
 ---
